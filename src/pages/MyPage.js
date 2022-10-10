@@ -277,9 +277,10 @@ const Setting = styled.div`
   cursor: pointer;
   text-indent: 2vw;
   font-weight: 300;
-justify-content: space-between;
-   &:hover {
+  justify-content: space-between;
+  &:hover {
     background-color: gainsboro;
+  }
 `;
 
 const Button = styled.button`
